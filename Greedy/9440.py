@@ -31,6 +31,8 @@ while(1):
 for i in answer:
     print(i)
 
+
+
 #9 0 1 2 3 4 0 1 2 3
 
 #pop(0)
