@@ -24,3 +24,18 @@ https://www.acmicpc.net/problem/1789
 <br/><br/>
 4796 캠핑
 https://www.acmicpc.net/problem/4796
+<br/><br/>
+13417 카드 문자열
+https://www.acmicpc.net/problem/13417
+<br/><br/>
+14469 소가 길을 건너간 이유 3
+https://www.acmicpc.net/problem/14469
+<br/><br/>
+16435 스네이크버드
+https://www.acmicpc.net/problem/16435
+<br/><br/>
+9009 피보나치
+https://www.acmicpc.net/problem/9009
+<br/><br/>
+9440 숫자 더하기
+https://www.acmicpc.net/problem/9440
