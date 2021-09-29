@@ -39,3 +39,12 @@ https://www.acmicpc.net/problem/9009
 <br/><br/>
 9440 숫자 더하기
 https://www.acmicpc.net/problem/9440
+<br/><br/>
+15903 카드 합체 놀이
+https://www.acmicpc.net/problem/15903
+<br/><br/>
+2847 게임을 만든 동준이
+https://www.acmicpc.net/problem/2847
+<br/><br/>
+1080 행렬
+https://www.acmicpc.net/problem/1080
