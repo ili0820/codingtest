@@ -66,7 +66,7 @@ https://www.acmicpc.net/problem/1080
 </details>
 
 <details markdown ="5">
-<summary>09/28</summary>
+<summary>09/30</summary>
 <br/>
 1417 행렬
 https://www.acmicpc.net/problem/1080
