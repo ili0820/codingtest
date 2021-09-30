@@ -47,9 +47,6 @@ https://www.acmicpc.net/problem/16435
 <br/><br/>
 9009 피보나치
 https://www.acmicpc.net/problem/9009
-<br/><br/>
-9440 숫자 더하기
-https://www.acmicpc.net/problem/9440
 </details>
 
 <details markdown ="5">
