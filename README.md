@@ -65,13 +65,20 @@ https://www.acmicpc.net/problem/1080
 <details markdown ="5">
 <summary>09/30</summary>
 <br/>
-1417 행렬
-https://www.acmicpc.net/problem/1080
+1417 국회의원 선거
+https://www.acmicpc.net/problem/1417
 <br/><br/>
-14241 행렬
-https://www.acmicpc.net/problem/1080
+11508 2+1 세일
+https://www.acmicpc.net/problem/11508
 <br/><br/>
-15904 행렬
-https://www.acmicpc.net/problem/1080
+14241 슬라임 합치기
+https://www.acmicpc.net/problem/14241
+<br/><br/>
+15904 UCPC는 무엇의 약자일까?
+https://www.acmicpc.net/problem/15904
+<br/><br/>
+16953 A → B
+https://www.acmicpc.net/problem/16953
+
 </details>
 </details>
