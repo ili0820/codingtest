@@ -78,7 +78,24 @@ https://www.acmicpc.net/problem/14241
 https://www.acmicpc.net/problem/15904
 <br/><br/>
 16953 A → B
-https://www.acmicpc.net/problem/16953
+https://www.acmicpc.net/problem/1695
+</details>
+
+<details markdown ="6">
+<summary>10/01</summary>
+<br/>
+1026 보물
+https://www.acmicpc.net/problem/1026
+<br/><br/>
+1758 알바생 강호
+https://www.acmicpc.net/problem/1758
+<br/><br/>
+9237 이장님 초대
+https://www.acmicpc.net/problem/9237
+<br/><br/>
+20300 서강근육맨
+https://www.acmicpc.net/problem/20300
 
 </details>
+
 </details>
