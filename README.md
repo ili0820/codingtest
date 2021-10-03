@@ -104,4 +104,14 @@ https://www.acmicpc.net/problem/20300
 https://www.acmicpc.net/problem/15553
 </details>
 
+<details markdown ="8">
+<summary>10/03</summary>
+<br>
+1343 폴리오미노
+https://www.acmicpc.net/problem/1343
+<br>
+14916 거스름돈
+https://www.acmicpc.net/problem/14916
+</details>
+
 </details>
