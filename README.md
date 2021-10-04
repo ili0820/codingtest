@@ -113,8 +113,15 @@ https://www.acmicpc.net/problem/1343
 14916 거스름돈
 https://www.acmicpc.net/problem/14916
 </details>
+</details>
+
+
 
 <details markdown ="9">
+<summary>구현</summary>
+<br/>
+
+<details markdown ="10">
 <summary>10/04</summary>
 <br>
 7568 덩치
@@ -128,6 +135,7 @@ https://www.acmicpc.net/problem/1966
 <br><br>
 11866 요세푸스 문제0
 https://www.acmicpc.net/problem/11866
+1
 </details>
 
 </details>
