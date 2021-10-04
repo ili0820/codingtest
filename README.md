@@ -114,4 +114,20 @@ https://www.acmicpc.net/problem/1343
 https://www.acmicpc.net/problem/14916
 </details>
 
+<details markdown ="9">
+<summary>10/04</summary>
+<br>
+7568 덩치
+https://www.acmicpc.net/problem/7568
+<br><br>
+10773 제로
+https://www.acmicpc.net/problem/10773
+<br><br>
+1966 프린터 큐
+https://www.acmicpc.net/problem/1966
+<br><br>
+11866 요세푸스 문제0
+https://www.acmicpc.net/problem/11866
+</details>
+
 </details>
