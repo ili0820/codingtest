@@ -135,7 +135,23 @@ https://www.acmicpc.net/problem/1966
 <br><br>
 11866 요세푸스 문제0
 https://www.acmicpc.net/problem/11866
-1
+</details>
+
+<details markdown ="10">
+<summary>10/04</summary>
+<br>
+1032 명령 프롬프트
+https://www.acmicpc.net/problem/1032
+<br><br>
+1476 날짜 계산
+https://www.acmicpc.net/problem/1476
+<br><br>
+1783 병든 나이트
+https://www.acmicpc.net/problem/1783
+<br><br>
+2960 아레토스테네스의 체
+https://www.acmicpc.net/problem/2960
+<br><br>
 </details>
 
 </details>
