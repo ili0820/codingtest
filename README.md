@@ -137,8 +137,8 @@ https://www.acmicpc.net/problem/1966
 https://www.acmicpc.net/problem/11866
 </details>
 
-<details markdown ="10">
-<summary>10/04</summary>
+<details markdown ="11">
+<summary>10/05</summary>
 <br>
 1032 명령 프롬프트
 https://www.acmicpc.net/problem/1032
