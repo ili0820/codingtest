@@ -154,4 +154,24 @@ https://www.acmicpc.net/problem/2960
 <br><br>
 </details>
 
+<details markdown ="12">
+<summary>10/06</summary>
+<br>
+2108 통계학
+https://www.acmicpc.net/problem/2108
+<br><br>
+1475 방 번호
+https://www.acmicpc.net/problem/1475
+<br><br>
+11723 집합
+https://www.acmicpc.net/problem/11723
+<br><br>
+1292 쉽게 푸는 문제
+https://www.acmicpc.net/problem/1292
+<br><br>
+2563 색종이
+https://www.acmicpc.net/problem/2563
+<br><br>
+</details>
+
 </details>
