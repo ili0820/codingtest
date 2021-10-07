@@ -174,4 +174,16 @@ https://www.acmicpc.net/problem/2563
 <br><br>
 </details>
 
+<details markdown ="13">
+<summary>10/07</summary>
+<br>
+1120 문자열
+https://www.acmicpc.net/problem/1120
+<br><br>
+1748 수 이어 쓰기 1
+https://www.acmicpc.net/problem/1748
+<br><br>
+
+</details>
+
 </details>
