@@ -183,7 +183,19 @@ https://www.acmicpc.net/problem/1120
 1748 수 이어 쓰기 1
 https://www.acmicpc.net/problem/1748
 <br><br>
-
 </details>
 
+<details markdown ="14">
+<summary>10/08</summary>
+<br>
+2693 N번째 큰수
+https://www.acmicpc.net/problem/2693
+<br><br>
+3085 사탕 게임
+https://www.acmicpc.net/problem/3085
+<br><br>
+1337 올바른 배열
+https://www.acmicpc.net/problem/1337
+<br><br>
+</details>
 </details>
