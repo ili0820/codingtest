@@ -198,4 +198,13 @@ https://www.acmicpc.net/problem/3085
 https://www.acmicpc.net/problem/1337
 <br><br>
 </details>
+
+<details markdown ="15">
+<summary>10/10</summary>
+<br>
+17413 단어 뒤집기 2
+https://www.acmicpc.net/problem/17413
+<br><br>
+</details>
+
 </details>
