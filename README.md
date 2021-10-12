@@ -216,6 +216,19 @@ https://www.acmicpc.net/problem/5567
 5635 생일
 https://www.acmicpc.net/problem/5635
 <br><br>
+2331 반복수열
+https://www.acmicpc.net/problem/2331
+<br><br>
 </details>
 
+<details markdown ="17">
+<summary>10/12</summary>
+<br>
+1236 성지키기
+https://www.acmicpc.net/problem/1236
+<br><br>
+11170 0의 개수
+https://www.acmicpc.net/problem/11170
+<br><br>
+</details>
 </details>
