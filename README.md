@@ -116,9 +116,9 @@ https://www.acmicpc.net/problem/14916
 </details>
 
 
-
+<br>
 <details markdown ="9">
-<summary>구현</summary>
+<summary>Implementation</summary>
 <br/>
 
 <details markdown ="10">
@@ -231,4 +231,18 @@ https://www.acmicpc.net/problem/1236
 https://www.acmicpc.net/problem/11170
 <br><br>
 </details>
+</details>
+<br>
+<details markdown ="18">
+<summary>DFS&BFS</summary>
+<br/>
+<details markdown ="19">
+<summary>10/14</summary>
+<br>
+16173 점프왕 쪨리(small)
+https://www.acmicpc.net/problem/16173
+<br><br>
+18352 특정 거리의 도시 찾기
+https://www.acmicpc.net/problem/16173
+<br><br>
 </details>
