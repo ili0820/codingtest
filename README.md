@@ -231,8 +231,9 @@ https://www.acmicpc.net/problem/1236
 https://www.acmicpc.net/problem/11170
 <br><br>
 </details>
-</details>
-<br>
+</details><br>
+
+
 <details markdown ="18">
 <summary>DFS&BFS</summary>
 <br/>
@@ -246,3 +247,15 @@ https://www.acmicpc.net/problem/16173
 https://www.acmicpc.net/problem/16173
 <br><br>
 </details>
+
+<details markdown ="20">
+<summary>10/15</summary>
+<br>
+2606 바이러스
+https://www.acmicpc.net/problem/2606
+<br><br>
+</details>
+
+</details>
+
+
