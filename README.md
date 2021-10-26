@@ -256,6 +256,13 @@ https://www.acmicpc.net/problem/2606
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>10/26</summary>
+<br>
+2644 촌수 계산
+https://www.acmicpc.net/problem/2606
+<br><br>
+</details>
 </details>
 
 
