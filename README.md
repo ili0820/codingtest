@@ -263,6 +263,17 @@ https://www.acmicpc.net/problem/2606
 https://www.acmicpc.net/problem/2606
 <br><br>
 </details>
+
+<details markdown ="20">
+<summary>10/28</summary>
+<br>
+11724 연결 요소의 개수
+https://www.acmicpc.net/problem/11724
+<br><br>
+3184 양
+https://www.acmicpc.net/problem/3184
+<br><br>
+</details>
 </details>
 
 
