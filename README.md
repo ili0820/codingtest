@@ -281,9 +281,18 @@ https://www.acmicpc.net/problem/3184
 1260 DFS와 BFS
 https://www.acmicpc.net/problem/1260
 <br><br>
-
 </details>
 
+<details markdown ="20">
+<summary>11/02</summary>
+<br>
+1012 유기농 배추
+https://www.acmicpc.net/problem/1012
+<br><br>
+2667 단지번호붙이기
+https://www.acmicpc.net/problem/2667
+<br><br>
+</details>
 </details>
 
 
