@@ -322,4 +322,7 @@ https://www.acmicpc.net/problem/2751
 10989 수 정렬하기 3
 https://www.acmicpc.net/problem/10989
 <br><br>
+2309 일곱 난쟁이
+https://www.acmicpc.net/problem/2309
+<br><br>
 </details>
