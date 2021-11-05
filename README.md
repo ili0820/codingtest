@@ -326,3 +326,20 @@ https://www.acmicpc.net/problem/10989
 https://www.acmicpc.net/problem/2309
 <br><br>
 </details>
+
+<details markdown ="20">
+<summary>11/05</summary>
+<br>
+1263 시간관리
+https://www.acmicpc.net/problem/1263
+<br><br>
+1427 소트인사이드
+https://www.acmicpc.net/problem/1427
+<br><br>
+10867 중복 빼고 정렬하기
+https://www.acmicpc.net/problem/10867
+<br><br>
+11651 좌표 정렬하기2
+https://www.acmicpc.net/problem/11651
+<br><br>
+</details>
