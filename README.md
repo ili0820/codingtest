@@ -343,3 +343,19 @@ https://www.acmicpc.net/problem/10867
 https://www.acmicpc.net/problem/11651
 <br><br>
 </details>
+
+<details markdown ="20">
+<summary>11/08</summary>
+<br>
+18870 좌표 압축
+https://www.acmicpc.net/problem/18870
+<br><br>
+7571 점 모으기
+https://www.acmicpc.net/problem/7571
+<br><br>
+11067 모노톤길
+https://www.acmicpc.net/problem/11067
+<br><br>
+</details>
+
+</details>
