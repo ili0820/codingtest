@@ -358,4 +358,17 @@ https://www.acmicpc.net/problem/11067
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/09</summary>
+<br>
+2212 센서
+https://www.acmicpc.net/problem/2212
+<br><br>
+11652 카드
+https://www.acmicpc.net/problem/11652
+<br><br>
+13164 행복 유치원
+https://www.acmicpc.net/problem/13164
+<br><br>
+</details>
 </details>
