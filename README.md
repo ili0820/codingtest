@@ -372,3 +372,26 @@ https://www.acmicpc.net/problem/13164
 <br><br>
 </details>
 </details>
+<br/>
+
+<details markdown ="1">
+<summary>Binary Search</summary>
+<br/>
+<details markdown ="20">
+<summary>11/11</summary>
+<br>
+1920 수 찾기
+https://www.acmicpc.net/problem/1920
+<br><br>
+2805 나무 자르기
+https://www.acmicpc.net/problem/2805
+<br><br>
+1654 랜선 자르기
+https://www.acmicpc.net/problem/1654
+<br><br>
+2110 공유기 설치
+https://www.acmicpc.net/problem/2110
+<br><br>
+</details>
+
+</details>
