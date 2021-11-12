@@ -394,4 +394,18 @@ https://www.acmicpc.net/problem/2110
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/12</summary>
+<br>
+10815 숫자 카드
+https://www.acmicpc.net/problem/10815
+<br><br>
+10816 숫자 카드 2
+https://www.acmicpc.net/problem/10816
+<br><br>
+2512 예산
+https://www.acmicpc.net/problem/2512
+<br><br>
+</details>
+
 </details>
