@@ -408,4 +408,18 @@ https://www.acmicpc.net/problem/2512
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/14</summary>
+<br>
+1072 게임
+https://www.acmicpc.net/problem/1072
+<br><br>
+2776 암기왕
+https://www.acmicpc.net/problem/2776
+<br><br>
+3079 입국심사
+https://www.acmicpc.net/problem/3079
+<br><br>
+</details>
+
 </details>
