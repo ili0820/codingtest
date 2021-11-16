@@ -422,4 +422,16 @@ https://www.acmicpc.net/problem/3079
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/14</summary>
+<br>
+2022 사다리
+https://www.acmicpc.net/problem/2022
+<br><br>
+3896 소수 사이 수열
+https://www.acmicpc.net/problem/3896
+<br><br>
+
+</details>
+
 </details>
