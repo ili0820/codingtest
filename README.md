@@ -423,7 +423,7 @@ https://www.acmicpc.net/problem/3079
 </details>
 
 <details markdown ="20">
-<summary>11/14</summary>
+<summary>11/16</summary>
 <br>
 2022 사다리
 https://www.acmicpc.net/problem/2022
@@ -431,7 +431,14 @@ https://www.acmicpc.net/problem/2022
 3896 소수 사이 수열
 https://www.acmicpc.net/problem/3896
 <br><br>
+</details>
 
+<details markdown ="20">
+<summary>11/17</summary>
+<br>
+16401 과자 나눠주기
+https://www.acmicpc.net/problem/16401
+<br><br>
 </details>
 
 </details>
