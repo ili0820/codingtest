@@ -442,6 +442,9 @@ https://www.acmicpc.net/problem/16401
 13706 제곱근
 https://www.acmicpc.net/problem/13706
 <br><br>
+14426 접두사 찾기
+https://www.acmicpc.net/problem/14426
+<br><br>
 </details>
 
 </details>
