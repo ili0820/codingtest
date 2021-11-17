@@ -439,6 +439,9 @@ https://www.acmicpc.net/problem/3896
 16401 과자 나눠주기
 https://www.acmicpc.net/problem/16401
 <br><br>
+13706 제곱근
+https://www.acmicpc.net/problem/13706
+<br><br>
 </details>
 
 </details>
