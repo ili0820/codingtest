@@ -447,4 +447,18 @@ https://www.acmicpc.net/problem/14426
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/18</summary>
+<br>
+16401 과자 나눠주기
+https://www.acmicpc.net/problem/16401
+<br><br>
+13706 제곱근
+https://www.acmicpc.net/problem/13706
+<br><br>
+14426 접두사 찾기
+https://www.acmicpc.net/problem/14426
+<br><br>
+</details>
+
 </details>
