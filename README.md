@@ -484,4 +484,19 @@ https://www.acmicpc.net/problem/11727
 https://www.acmicpc.net/problem/1010
 <br><br>
 </details>
+
+<details markdown ="20">
+<summary>11/23</summary>
+<br>
+9655 돌 게임
+https://www.acmicpc.net/problem/9655
+<br><br>
+11052 카드 구매하기
+https://www.acmicpc.net/problem/11052
+<br><br>
+11722 가장 긴 감소하는 부분 수열
+https://www.acmicpc.net/problem/11722
+<br><br>
+</details>
+
 </details>
