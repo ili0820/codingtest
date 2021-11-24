@@ -499,4 +499,18 @@ https://www.acmicpc.net/problem/11722
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/24</summary>
+<br>
+9656 돌 게임 2
+https://www.acmicpc.net/problem/9656
+<br><br>
+16194 카드 구매하기 2
+https://www.acmicpc.net/problem/16194
+<br><br>
+14494 다이나믹이 뭐예요?
+https://www.acmicpc.net/problem/14494
+<br><br>
+</details>
+
 </details>
