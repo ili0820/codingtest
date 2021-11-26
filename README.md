@@ -513,4 +513,26 @@ https://www.acmicpc.net/problem/14494
 <br><br>
 </details>
 
+<details markdown ="20">
+<summary>11/25</summary>
+<br>
+13699 점화식
+https://www.acmicpc.net/problem/13699
+<br><br>
+</details>
+
+<details markdown ="20">
+<summary>11/26</summary>
+<br>
+2579 계단 오르기
+https://www.acmicpc.net/problem/2579
+<br><br>
+4963 섬의 개수
+https://www.acmicpc.net/problem/4963
+<br><br>
+14495 피보나치 비스무리한 수열 
+https://www.acmicpc.net/problem/14495 
+<br><br>
+</details>
+
 </details>
