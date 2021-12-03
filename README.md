@@ -535,4 +535,35 @@ https://www.acmicpc.net/problem/14495
 <br><br>
 </details>
 
+
+<details markdown ="20">
+<summary>11/29</summary>
+<br>
+2407 조합
+https://www.acmicpc.net/problem/2407
+<br><br>
+2670 연속부분최대곱 
+https://www.acmicpc.net/problem/2670
+<br><br>
+10826 피보나치 수 4
+https://www.acmicpc.net/problem/10826 
+<br><br>
+11060 점프 점프
+https://www.acmicpc.net/problem/11060 
+<br><br>
+</details>
+
+
+
+<details markdown ="20">
+<summary>11/29</summary>
+<br>
+1912 연속합
+https://www.acmicpc.net/problem/1912
+<br><br>
+2193 이친수 
+https://www.acmicpc.net/problem/2193
+<br><br>
+</details>
+
 </details>
