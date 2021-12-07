@@ -567,3 +567,21 @@ https://www.acmicpc.net/problem/2193
 </details>
 
 </details>
+
+
+<br/>
+<details markdown ="1">
+<summary>Dijkstra</summary>
+<br/>
+<details markdown ="20">
+<summary>12/07</summary>
+<br>
+1446 지름길 
+https://www.acmicpc.net/problem/1446
+<br><br>
+14496 그대, 그머가 되어
+https://www.acmicpc.net/problem/14496
+<br><br>
+</details>
+
+</details>
