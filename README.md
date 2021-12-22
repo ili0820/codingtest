@@ -584,4 +584,33 @@ https://www.acmicpc.net/problem/14496
 <br><br>
 </details>
 
+<br/>
+<details markdown ="20">
+<summary>12/22</summary>
+<br>
+1753 최단경로
+https://www.acmicpc.net/problem/1753
+<br><br>
+1916 최소비용 구하기
+https://www.acmicpc.net/problem/1916
+<br><br>
+
+
+</details>
+
+<br/>
+<details markdown ="1">
+<summary>Floyd Warshall</summary>
+<br/>
+<details markdown ="20">
+<summary>12/22</summary>
+<br>
+1389 케빈 베이컨의 6단계 법칙
+https://www.acmicpc.net/problem/1389
+<br><br>
+11403 경로 찾기
+https://www.acmicpc.net/problem/11403
+<br><br>
+</details>
+
 </details>
