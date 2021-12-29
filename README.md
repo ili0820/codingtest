@@ -594,7 +594,15 @@ https://www.acmicpc.net/problem/1753
 1916 최소비용 구하기
 https://www.acmicpc.net/problem/1916
 <br><br>
+</details>
 
+<details markdown ="20">
+<summary>12/29</summary>
+<br>
+5972 택배배송
+https://www.acmicpc.net/problem/5972
+<br><br>
+</details>
 
 </details>
 
@@ -611,6 +619,24 @@ https://www.acmicpc.net/problem/1389
 11403 경로 찾기
 https://www.acmicpc.net/problem/11403
 <br><br>
+11581 구호물자
+https://www.acmicpc.net/problem/11581
+<br><br>
 </details>
 
+<details markdown ="20">
+<summary>12/27</summary>
+<br>
+9205 맥주 마시면서 걸어가기
+https://www.acmicpc.net/problem/9205
+<br><br>
+</details>
+
+<details markdown ="20">
+<summary>12/29</summary>
+<br>
+2660 회장뽑기
+https://www.acmicpc.net/problem/2660
+<br><br>
+</details>
 </details>
