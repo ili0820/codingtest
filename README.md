@@ -302,6 +302,20 @@ https://www.acmicpc.net/problem/21736
 https://www.acmicpc.net/problem/21736
 <br><br>
 </details>
+
+
+<details markdown ="20">
+<summary>12/31</summary>
+<br>
+2583 영역 구하기
+https://www.acmicpc.net/problem/2583
+<br><br>
+12761 돌다리
+https://www.acmicpc.net/problem/12761
+<br><br>
+
+</details>
+
 </details>
 
 <br/>
