@@ -657,3 +657,19 @@ https://www.acmicpc.net/problem/11404
 <br><br>
 </details>
 </details>
+
+<br>
+<details markdown ="1">
+<summary>Disjoint Set</summary>
+<br/>
+<details markdown ="20">
+<summary>01/05</summary>
+<br>
+1717 집합의 표현
+https://www.acmicpc.net/problem/1717
+<br><br>
+1976 여행 가자
+https://www.acmicpc.net/problem/1976
+<br><br>
+</details>
+</details>
