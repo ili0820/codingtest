@@ -662,8 +662,10 @@ https://www.acmicpc.net/problem/11404
 <details markdown ="1">
 <summary>Disjoint Set</summary>
 <br/>
+
 <details markdown ="20">
 <summary>01/05</summary>
+
 <br>
 1717 집합의 표현
 https://www.acmicpc.net/problem/1717
@@ -672,4 +674,17 @@ https://www.acmicpc.net/problem/1717
 https://www.acmicpc.net/problem/1976
 <br><br>
 </details>
+
+<br>
+<details markdown ="20">
+<summary>01/06</summary>
+<br>
+1939 중량제한 
+https://www.acmicpc.net/problem/1939
+<br><br>
+4195 친구 네트워크
+https://www.acmicpc.net/problem/4195
+<br><br>
+</details>
+
 </details>

@@ -30,7 +30,4 @@ for i in range(n):
             union_parent(parent,i+1,j+1)
 
 temp=list(map(int,input().split()))
-print(len(temp) - 1)
-print(parent)
-print(temp)
 print(ver(temp))
