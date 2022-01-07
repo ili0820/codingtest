@@ -231,6 +231,15 @@ https://www.acmicpc.net/problem/1236
 https://www.acmicpc.net/problem/11170
 <br><br>
 </details>
+
+<details markdown ="17">
+<summary>01/07</summary>
+<br>
+2578 빙고
+https://www.acmicpc.net/problem/2578
+
+</details>
+
 </details><br>
 
 
@@ -313,6 +322,16 @@ https://www.acmicpc.net/problem/2583
 12761 돌다리
 https://www.acmicpc.net/problem/12761
 <br><br>
+
+</details>
+
+<details markdown ="20">
+<summary>01/07</summary>
+<br>
+10026 적록색약
+https://www.acmicpc.net/problem/10026
+<br><br>
+
 
 </details>
 
@@ -675,7 +694,7 @@ https://www.acmicpc.net/problem/1976
 <br><br>
 </details>
 
-<br>
+
 <details markdown ="20">
 <summary>01/06</summary>
 <br>
@@ -685,6 +704,22 @@ https://www.acmicpc.net/problem/1939
 4195 친구 네트워크
 https://www.acmicpc.net/problem/4195
 <br><br>
+</details>
+
+</details>
+
+<br>
+<details markdown ="1">
+<summary>Topological Sorting</summary>
+<br/>
+
+<details markdown ="20">
+<summary>01/07</summary>
+<br>
+14567 선수과목
+https://www.acmicpc.net/problem/14567
+<br><br>
+
 </details>
 
 </details>
