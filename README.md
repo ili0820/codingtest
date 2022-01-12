@@ -719,7 +719,40 @@ https://www.acmicpc.net/problem/4195
 14567 선수과목
 https://www.acmicpc.net/problem/14567
 <br><br>
+</details>
+
+<details markdown ="20">
+<summary>01/12</summary>
+<br>
+2252 줄세우기
+https://www.acmicpc.net/problem/2252
+<br><br>
+</details>
 
 </details>
+
+<br>
+<details markdown ="1">
+<summary>Minimum Spanning Tree</summary>
+<br/>
+
+<details markdown ="20">
+<summary>01/12</summary>
+<br>
+1197 최소 스패닝 트리
+https://www.acmicpc.net/problem/1197
+<br><br>
+1922 네트워크 연결
+https://www.acmicpc.net/problem/1922
+<br><br>
+1647 도시 분할 계획
+https://www.acmicpc.net/problem/1647
+<br><br>
+2887 행성 터널
+https://www.acmicpc.net/problem/2887
+<br><br>
+</details>
+
+
 
 </details>
